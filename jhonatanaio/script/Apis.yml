@@ -1,0 +1,92 @@
+---
+    Lo***I:
+        baseUrl: http://**************99/RaspLoginAPI/
+        
+        Auth***ion:
+            Log***er:
+                Type: Post
+                ArgumentsCount: 1 
+            
+            Log***er:
+                Type: Post
+                ArgumentsCount: 2
+                
+            Logout:
+                Type: Post
+                ArgumentsCount: 2
+
+    OJ***:
+                    
+        baseUrl: http://**************99.corp.*******.org/OJT/ojtws/
+
+        Configuration:
+            Chan***rd:
+                Type: Post
+                ArgumentsCount: 1
+    
+        Document:
+            GetD***ter:
+                Type: Post
+                ArgumentsCount: 1
+
+        Works***n:            
+            GetName***erry:
+                Type: Post
+                ArgumentsCount: 1 
+
+            Ge***s:
+                Type: Post
+                ArgumentsCount: 1 
+
+            GetLo***Route:
+                Type: Post
+                ArgumentsCount: 1 
+                
+            GetWo***nts:
+                Type: Get
+                ArgumentsCount: 1  
+
+    ***: 
+        baseUrl: http://**************02.corp.*******.org/***Service/
+
+        CN***:
+            GetDoc***ilter:
+                Type: Post
+                ArgumentsCount: 1  
+
+        E***ion:
+            GetEquipm***ame:
+                Type: Get
+                ArgumentsCount: 1  
+            
+        JD***:
+            GetMast***lDocument:
+                Type: Post
+                ArgumentsCount: 1  
+
+            GetJmd***yMesId:
+                Type: Post
+                ArgumentsCount: 1  
+
+            GetJmdRo***MesId:
+                Type: Post
+                ArgumentsCount: 1
+
+    A***ard:
+        baseUrl: http://**************99.corp.*******.org/***Service_***Dashboard/
+
+        P***ash:
+            GetActu***ributes:
+                Type: Get
+                ArgumentsCount: 1
+            G***ine:
+                Type: Get
+                ArgumentsCount: 1
+    
+    # JMD:
+    #     baseUrl: http://http://**************02/JMDDataServices/workstation/{}/productionlines
+
+    #     workstation:
+    #         Type: Get
+    #         ArgumentsCount: 1
+    #             productionlines:
