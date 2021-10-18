@@ -1,7 +1,7 @@
 Este é um projeto que foi desenvolvido ao longo de meses com várias funcionalidades agregadas ao longo do tempo. O programa é utilizado em um raspberry, cada posto de trabalho da fábrica tem uma unidade. O intuito é digitalizar toda a papelada diária dos trabalhadores, criar inovações e automatizar processos. O hardware utilizao é um monitor, mouse, raspberry e um leitor RFID.
 
 
-É um programa extremamente complexo e robusto, este é o fluxo básico:
+É um programa bastante complexo e robusto, este é o fluxo básico:
 
 -O programa roda em um container Docker em um raspberry
 
